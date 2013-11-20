@@ -4,7 +4,7 @@
     text: 'alert',
     title: 'display the topic title in an alert',
 
-    click: function(buffer) {
+    click: function() {
       alert(this.get("controller.content.title"));
     },
 
