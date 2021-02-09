@@ -3,6 +3,8 @@ discourse-alert
 
 Alert plugin for [Discourse](http://discourse.org).
 
+**NOTE: This plugin is quite old and uses outdated APIs. It probably will not work in modern Discourse installs.**
+
 Installation
 ============
 
